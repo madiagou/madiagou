@@ -1,0 +1,28 @@
+body {
+  background: #edf4fc;
+  color: #243549;
+  font-family: Arial, sans-serif;
+}
+
+main {
+  max-width: 40rem;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+h1 {
+  color: #17385c;
+  text-shadow: 1px 1px #ffffff;
+}
+
+img {
+  object-fit: cover;
+}
+
+.about {
+  color: #814026;
+}
+
+.music {
+  color: #165f4f;
+}
